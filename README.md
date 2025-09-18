@@ -19,9 +19,6 @@ Logging system to track actions (shorten, redirect, errors)
 
 User-friendly UI built with Material UI
 
-# Author
-YASH V
-
 # ✨ Future Improvements
 
 Add backend integration for centralized URL storage
@@ -29,3 +26,6 @@ Add backend integration for centralized URL storage
 Add analytics (click count, device info, geo stats)
 
 User authentication for personal URL dashboards
+
+# Author
+YASH V
